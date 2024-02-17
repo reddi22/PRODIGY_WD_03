@@ -19,10 +19,15 @@ body {
     flex-direction: column;
 }
 
+h1 {
+    text-align: center;
+    margin-top: 20%;
+}
+
 .container {
     display: grid;
     grid-template-columns: repeat(3, auto);
-    margin-top: 40%;
+    margin-top: 25px;
 }
 
 .box {
